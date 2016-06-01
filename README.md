@@ -1,5 +1,5 @@
 # qmailsmtpssld
-A NetBSD `rc.d` start script for running qmail-smdpd with sslserver.
+A NetBSD `rc.d` start script for running qmail-smtpd with sslserver.
 
 This script is useful for the approximately two other people on this planet that run qmail from `pkgsrc` on NetBSD 
 and need to have a second instance of `qmail-smtpd` running with ssl support on port `465`.
